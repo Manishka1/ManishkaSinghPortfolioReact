@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/side.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "laptop with a man";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Quote Generator",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A web app that generates random quotes. It was created using JavaScript and HTML and styled with CSS.",
+    url: "https://github.com/Manishka1/Quote-Generator.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Movie Seat Booking App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A movie seat booking web app that allows users to select a movie, select seats, and see the cost of the movie. It was created using HTML, CSS, and JavaScript.",
+    url: "https://github.com/Manishka1/Movie-Seat-Booking.git",
   },
   {
-    title: "My Resume Site",
+    title: "Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a portfolio website using HTML and CSS",
+    url: "https://github.com/Manishka1/ManishkaPortfolio.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "NASA: exoplanet exploration",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a web app that fetches data from the NASA API to display exoplanet data. It was created using NASA API.",
+    url: "https://github.com/Manishka1/NASAExploration.git",
   },
 ];
 
