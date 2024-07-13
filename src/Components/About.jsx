@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/bg1.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "purple abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hey! I'm Manishka Singh, 21 years old. I'm pursuing my masters, I have good code habits, pursue the clear structure, and strong logic. Moreover, I'm quick thinking, good at learning new methods and technologies, and can proactively analyze and solve problems.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +32,11 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Responsive Web Designing",
+  "JavaScript",
+  "HTML5",
+  "CSS3",
+  "React",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about learning new methods and technologies, solving problems in new creative ways to drive innovation. I have the spirit of exploring and researching new technologies.";
 
 const About = () => {
   return (
