@@ -30,7 +30,7 @@ const siteProps = {
   email: "manishka110518@gmail.com",
   gitHub: "Manishka1",
   instagram: "manishka.4",
-  linkedIn: "Mannishka Singh",
+  linkedIn: "manishka-singh",
   medium: "",
   twitter: "",
   youTube: "",
